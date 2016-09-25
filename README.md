@@ -1,2 +1,2 @@
-# bytechameleon
+# Byte Chameleon
 Simple Java Agent
