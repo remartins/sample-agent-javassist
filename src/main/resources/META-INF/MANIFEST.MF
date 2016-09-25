@@ -1,0 +1,1 @@
+Premain-Class: br.com.bytechameleon.ByteChameleonAgent
